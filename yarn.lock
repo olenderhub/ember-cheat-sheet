@@ -992,10 +992,10 @@
     unist-util-visit "^2.0.2"
     yaml "^1.9.2"
 
-"@docfy/ember@^0.4.4":
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/@docfy/ember/-/ember-0.4.4.tgz#62449bea940ec276838d7f2a726b1483d6735857"
-  integrity sha512-vEgGYdPZKNoJT5vJiehNgVDyaFcY5AZ3AJ+4QUmy/10dYecCSbbvnCViUncUqoNqTJ6WuzOSICZE1BVpqkYshg==
+"@docfy/ember@^0.4.8":
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/@docfy/ember/-/ember-0.4.8.tgz#8fe3c525b0d44790bdc801bc3b5f588a27c840bd"
+  integrity sha512-IxkLQJp4/pn4HvW6mxnd9ezErbrKM5i/maNUPCa3ixxFgPFMWRmwn05EP+6Y2ZAqOHaJXtkDMxllCg6tdFFFBQ==
   dependencies:
     "@docfy/core" "^0.4.4"
     broccoli-bridge "^1.0.0"
@@ -1005,6 +1005,7 @@
     broccoli-node-api "^1.7.0"
     broccoli-plugin "^4.0.3"
     broccoli-source "^3.0.0"
+    calculate-cache-key-for-tree "2.0.0"
     debug "^4.3.1"
     ember-cli-babel "^7.23.1"
     ember-cli-htmlbars "^5.3.1"
@@ -4966,7 +4967,7 @@ cache-base@^1.0.1:
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
-calculate-cache-key-for-tree@^2.0.0:
+calculate-cache-key-for-tree@2.0.0, calculate-cache-key-for-tree@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/calculate-cache-key-for-tree/-/calculate-cache-key-for-tree-2.0.0.tgz#7ac57f149a4188eacb0a45b210689215d3fef8d6"
   integrity sha512-Quw8a6y8CPmRd6eU+mwypktYCwUcf8yVFIRbNZ6tPQEckX9yd+EBVEPC/GSZZrMWH9e7Vz4pT7XhpmyApRByLQ==
