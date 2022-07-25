@@ -33,6 +33,7 @@ iframe {
   width: 100%;
   border: 1px solid gray;
   border-radius: 0.25rem;
+  resize: vertical;
 }
 
 body {
