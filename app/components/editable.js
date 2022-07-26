@@ -20,7 +20,7 @@ export default class Editable extends Component {
       return 'http://localhost:4200';
     }
 
-    return 'https://62d4766043a45222c197303a--limber.netlify.app';
+    return 'https://limber.glimdown.com/edit';
   }
 
   get title() {
