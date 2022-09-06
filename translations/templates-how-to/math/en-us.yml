@@ -1,3 +1,3 @@
 title: Math
 description: >
-  TODO: Write this
+  These helpers aren't yet in ember itself. In the meantime, you may install [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) to get the helpers.
